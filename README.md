@@ -1,4 +1,6 @@
-reclipse
+Reclipse
 ========
 
-reclipsegroup.com
+Welcome to the repository for the Reclipse Group website.
+
+www.reclipsegroup.com
